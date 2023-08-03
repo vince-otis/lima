@@ -213,7 +213,7 @@ html .woocommerce .quantity .plus, html .woocommerce .quantity .minus, html .woo
 html .woocommerce .quantity .plus, html .woocommerce #content .quantity .plus,  html .woocommerce-page .quantity .plus,html .woocommerce-page #content .quantity .plus, html .woocommerce .quantity .plus:hover, html .woocommerce #content .quantity .plus:hover,html .woocommerce-page .quantity .plus:hover,  html .woocommerce-page #content .quantity .plus:hover{ background: #9a9a9a; }
 html .woocommerce .quantity .minus, html .woocommerce #content .quantity .minus,  html .woocommerce-page .quantity .minus,html .woocommerce-page #content .quantity .minus, html .woocommerce .quantity .minus:hover, html .woocommerce #content .quantity .minus:hover,html .woocommerce-page .quantity .minus:hover,  html .woocommerce-page #content .quantity .minus:hover{ background: #b6b6b6; }
 .half-container{ max-width: 570px; } 
-.greennature-skin-dark-skin, .greennature-skin-dark-skin .greennature-skin-content{ color: #c4c4c4; }
+.greennature-skin-dark-skin, .greennature-skin-dark-skin .greennature-skin-content{ color: black; }
 .greennature-skin-dark-skin i, .greennature-skin-dark-skin .greennature-flex-prev, .greennature-skin-dark-skin .greennature-flex-next{ color: #ffffff; }
 .greennature-skin-dark-skin h1, .greennature-skin-dark-skin h2, .greennature-skin-dark-skin h3, .greennature-skin-dark-skin h4, .greennature-skin-dark-skin h5, .greennature-skin-dark-skin h6, .greennature-skin-dark-skin .greennature-skin-title, .greennature-skin-dark-skin .greennature-skin-title a{ color: #ffffff; }
 .greennature-skin-dark-skin .greennature-skin-title a:hover{ color: #ffffff; }
