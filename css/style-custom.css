@@ -84,6 +84,7 @@ body *{ border-color: #dddddd; }
 .greennature-button, input[type="submit"]{ border-color: #4b9e55; }
 .column-service-title{ color: #5dc269; }
 .column-service-content{ color: #909090; }
+.serv { color: #171616; font-size: 14px;}
 .column-service-icon i{ color: #5dc269; }.greennature-column-service-item.greennature-type-2 .column-service-icon{ border-color: #5dc269; }
 .list-with-icon .list-with-icon-title{ color: #333333; }
 .list-with-icon .list-with-icon-icon{ border-color: #333333; color: #333333; }
